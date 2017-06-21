@@ -1,8 +1,8 @@
 # Image convertion
 
-\#!/bin/bash
+`#!/bin/bash`
 
-convert \`ls -v \*.jpg\` tmp\_outfile.pdf
+``convert `ls -v *.jpg` tmp_outfile.pdf``
 
-convert-density 200x200 -quality 30 -compress jpeg tmp\_outfile.pdf $1
+`convert-density 200x200 -quality 30 -compress jpeg tmp_outfile.pdf $1`
 
