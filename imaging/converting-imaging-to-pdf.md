@@ -12,5 +12,3 @@
 
 `convert img.jpg -quality 50 img-lower-quality.jpg`
 
-
-
