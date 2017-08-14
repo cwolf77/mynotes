@@ -1,5 +1,23 @@
 # ElasticSearch
 
+## About official clients API
+
+[https://www.elastic.co/guide/en/elasticsearch/client/index.html](https://www.elastic.co/guide/en/elasticsearch/client/index.html "Elasticsearch Clients")
+
+[https://www.elastic.co/blog/found-interfacing-elasticsearch-picking-client](https://www.elastic.co/blog/found-interfacing-elasticsearch-picking-client "Interfacing with Elasticsearch: Picking a Client")
+
+[https://www.elastic.co/blog/benchmarking-rest-client-transport-client](https://www.elastic.co/blog/benchmarking-rest-client-transport-client "Benchmarking REST client and transport client")
+
+[https://www.elastic.co/blog/state-of-the-official-elasticsearch-java-clients](https://www.elastic.co/blog/state-of-the-official-elasticsearch-java-clients "State of the official Elasticsearch Java clients")
+
+## Alternate non ElasticSearch official clients
+
+### Jest client
+
+[https://github.com/searchbox-io/Jest/tree/master/jest](https://github.com/searchbox-io/Jest/tree/master/jest)
+
+## Indexing binary file
+
 [https://stackoverflow.com/questions/34857179/how-to-index-a-pdf-file-in-elasticsearch](https://stackoverflow.com/questions/34857179/how-to-index-a-pdf-file-in-elasticsearch)
 
 [https://ambar.cloud/](https://ambar.cloud/)
@@ -16,19 +34,5 @@
 
 [https://qbox.io/blog/index-attachments-files-elasticsearch-mapper](https://qbox.io/blog/index-attachments-files-elasticsearch-mapper)
 
-## About official clients API
 
-[https://www.elastic.co/guide/en/elasticsearch/client/index.html](https://www.elastic.co/guide/en/elasticsearch/client/index.html "Elasticsearch Clients")
-
-[https://www.elastic.co/blog/found-interfacing-elasticsearch-picking-client](https://www.elastic.co/blog/found-interfacing-elasticsearch-picking-client "Interfacing with Elasticsearch: Picking a Client")
-
-[https://www.elastic.co/blog/benchmarking-rest-client-transport-client](https://www.elastic.co/blog/benchmarking-rest-client-transport-client "Benchmarking REST client and transport client")
-
-[https://www.elastic.co/blog/state-of-the-official-elasticsearch-java-clients](https://www.elastic.co/blog/state-of-the-official-elasticsearch-java-clients "State of the official Elasticsearch Java clients")
-
-## Alternate non ElasticSearch official clients
-
-### Jest client
-
-[https://github.com/searchbox-io/Jest/tree/master/jest](https://github.com/searchbox-io/Jest/tree/master/jest)
 
