@@ -18,6 +18,8 @@
 
 ## About official clients API
 
+[https://www.elastic.co/guide/en/elasticsearch/client/index.html](https://www.elastic.co/guide/en/elasticsearch/client/index.html "Elasticsearch Clients")
+
 [https://www.elastic.co/blog/found-interfacing-elasticsearch-picking-client](https://www.elastic.co/blog/found-interfacing-elasticsearch-picking-client "Interfacing with Elasticsearch: Picking a Client")
 
 [https://www.elastic.co/blog/benchmarking-rest-client-transport-client](https://www.elastic.co/blog/benchmarking-rest-client-transport-client "Benchmarking REST client and transport client")
