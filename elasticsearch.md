@@ -20,9 +20,5 @@
 
 [https://www.elastic.co/blog/found-interfacing-elasticsearch-picking-client](https://www.elastic.co/blog/found-interfacing-elasticsearch-picking-client "Interfacing with Elasticsearch: Picking a Client")
 
-
-
-
-
-
+[https://www.elastic.co/blog/benchmarking-rest-client-transport-client](https://www.elastic.co/blog/benchmarking-rest-client-transport-client "Benchmarking REST client and transport client")
 
