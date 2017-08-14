@@ -16,7 +16,7 @@
 
 [https://qbox.io/blog/index-attachments-files-elasticsearch-mapper](https://qbox.io/blog/index-attachments-files-elasticsearch-mapper)
 
-## About Clients API
+## About official clients API
 
 [https://www.elastic.co/blog/found-interfacing-elasticsearch-picking-client](https://www.elastic.co/blog/found-interfacing-elasticsearch-picking-client "Interfacing with Elasticsearch: Picking a Client")
 
@@ -24,11 +24,9 @@
 
 [https://www.elastic.co/blog/state-of-the-official-elasticsearch-java-clients](https://www.elastic.co/blog/state-of-the-official-elasticsearch-java-clients "State of the official Elasticsearch Java clients")
 
-
+## Alternate non ElasticSearch official clients
 
 ### Jest client
 
 [https://github.com/searchbox-io/Jest/tree/master/jest](https://github.com/searchbox-io/Jest/tree/master/jest)
-
-
 
