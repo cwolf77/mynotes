@@ -22,3 +22,13 @@
 
 [https://www.elastic.co/blog/benchmarking-rest-client-transport-client](https://www.elastic.co/blog/benchmarking-rest-client-transport-client "Benchmarking REST client and transport client")
 
+[https://www.elastic.co/blog/state-of-the-official-elasticsearch-java-clients](https://www.elastic.co/blog/state-of-the-official-elasticsearch-java-clients "State of the official Elasticsearch Java clients")
+
+
+
+### Jest client
+
+[https://github.com/searchbox-io/Jest/tree/master/jest](https://github.com/searchbox-io/Jest/tree/master/jest)
+
+
+
