@@ -14,6 +14,8 @@
 
 ### Jest client
 
+When writting those lines, Jest seems to support only ES version 2.X.
+
 [https://github.com/searchbox-io/Jest/tree/master/jest](https://github.com/searchbox-io/Jest/tree/master/jest)
 
 ## Indexing binary file
@@ -33,6 +35,22 @@
 [https://www.opensemanticsearch.org/connector/files/pdf](https://www.opensemanticsearch.org/connector/files/pdf)
 
 [https://qbox.io/blog/index-attachments-files-elasticsearch-mapper](https://qbox.io/blog/index-attachments-files-elasticsearch-mapper)
+
+## Index
+
+### Organize index
+
+https://blog.ambar.cloud/ambar-use-case-integrated-parse-and-search-solution/
+
+### Full Text 
+
+https://www.elastic.co/guide/en/elasticsearch/reference/current/text.html
+
+### Performance with large text index
+
+https://blog.ambar.cloud/making-elasticsearch-perform-well-with-large-text-fields/
+
+
 
 
 
