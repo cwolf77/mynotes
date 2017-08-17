@@ -52,7 +52,11 @@ When writting those lines, Jest seems to support only ES version 2.X.
 
 ### Meta-Files \(\_routing, \_meta, ...\)
 
-https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping-fields.html
+[https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping-fields.html](https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping-fields.html)
+
+### Mapping \(field datatypes, dynamic mapping, dynamic templates,...\)
+
+https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html
 
 
 
