@@ -40,17 +40,19 @@ When writting those lines, Jest seems to support only ES version 2.X.
 
 ### Organize index
 
-https://blog.ambar.cloud/ambar-use-case-integrated-parse-and-search-solution/
+[https://blog.ambar.cloud/ambar-use-case-integrated-parse-and-search-solution/](https://blog.ambar.cloud/ambar-use-case-integrated-parse-and-search-solution/)
 
-### Full Text 
+### Full Text
 
-https://www.elastic.co/guide/en/elasticsearch/reference/current/text.html
+[https://www.elastic.co/guide/en/elasticsearch/reference/current/text.html](https://www.elastic.co/guide/en/elasticsearch/reference/current/text.html)
 
 ### Performance with large text index
 
-https://blog.ambar.cloud/making-elasticsearch-perform-well-with-large-text-fields/
+[https://blog.ambar.cloud/making-elasticsearch-perform-well-with-large-text-fields/](https://blog.ambar.cloud/making-elasticsearch-perform-well-with-large-text-fields/)
 
+### Meta-Files \(\_routing, \_meta, ...\)
 
+https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping-fields.html
 
 
 
