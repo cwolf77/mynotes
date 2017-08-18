@@ -4,8 +4,8 @@
 * [Git](git.md)
 * [Camel](camel.md)
   * [Components](camel/components.md)
-* [User](user.md)
 * [ElasticSearch](elasticsearch.md)
+* [Tika](tika.md)
 
 ## Imaging
 
