@@ -5,6 +5,7 @@
 
 ## Documents
 
+* [Lucene](lucene.md)
 * [Tika](tika.md)
 * [ElasticSearch](elasticsearch.md)
 
