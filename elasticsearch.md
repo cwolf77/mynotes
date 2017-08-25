@@ -10,6 +10,8 @@
 
 [https://www.elastic.co/blog/state-of-the-official-elasticsearch-java-clients](https://www.elastic.co/blog/state-of-the-official-elasticsearch-java-clients "State of the official Elasticsearch Java clients")
 
+https://www.javacodegeeks.com/2017/03/elasticsearch-java-developers-elasticsearch-java.html
+
 ## Alternate non ElasticSearch official clients
 
 ### Jest client
@@ -60,13 +62,11 @@ When writting those lines, Jest seems to support only ES version 2.X.
 
 ## Search
 
-https://www.elastic.co/guide/en/elasticsearch/reference/current/how-to.html
+[https://www.elastic.co/guide/en/elasticsearch/reference/current/how-to.html](https://www.elastic.co/guide/en/elasticsearch/reference/current/how-to.html)
 
-https://www.elastic.co/guide/en/elasticsearch/reference/current/tune-for-disk-usage.html
+[https://www.elastic.co/guide/en/elasticsearch/reference/current/tune-for-disk-usage.html](https://www.elastic.co/guide/en/elasticsearch/reference/current/tune-for-disk-usage.html)
 
 ### Improve search on string
 
-https://www.elastic.co/guide/en/elasticsearch/reference/current/tune-for-disk-usage.html\#\_don\_8217\_t\_use\_default\_dynamic\_string\_mappings
-
-
+[https://www.elastic.co/guide/en/elasticsearch/reference/current/tune-for-disk-usage.html\\#\\_don\\_8217\\_t\\_use\\_default\\_dynamic\\_string\\_mappings](https://www.elastic.co/guide/en/elasticsearch/reference/current/tune-for-disk-usage.html\#\_don\_8217\_t\_use\_default\_dynamic\_string\_mappings)
 
