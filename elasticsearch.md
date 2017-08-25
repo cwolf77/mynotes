@@ -72,7 +72,7 @@ When writting those lines, Jest seems to support only ES version 2.X.
 
 ## Test
 
-**Maven plugin** : https://github.com/alexcojocaru/elasticsearch-maven-plugin/tree/es5
+**Maven plugin** : [https://github.com/alexcojocaru/elasticsearch-maven-plugin/tree/es5](https://github.com/alexcojocaru/elasticsearch-maven-plugin/tree/es5)
 
-
+Reason why not using ESIntegTestCase : https://discuss.elastic.co/t/5-0-0-using-painless-in-esintegtestcase/64447/14
 
