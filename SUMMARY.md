@@ -15,6 +15,8 @@
 
 ## Linux
 
+* [Manjaro](linux/manjaro.md)
+
 ## Integration
 
 * [Camel](camel.md)
