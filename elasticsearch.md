@@ -100,5 +100,55 @@ Other links
 
 ## ElasticSearch on Docker
 
-https://www.elastic.co/guide/en/elasticsearch/reference/5.5/docker.html
+[https://www.elastic.co/guide/en/elasticsearch/reference/5.5/docker.html](https://www.elastic.co/guide/en/elasticsearch/reference/5.5/docker.html)
+
+
+
+
+
+
+
+
+
+sudo sysctl -w vm.max\_map\_count=262144
+
+sudo systemctl stop docker
+
+sudo systemctl start docker
+
+
+
+sudo docker run -p 9200:9200 -e "http.host=0.0.0.0" -e "transport.host=127.0.0.1" docker.elastic.co/elasticsearch/elasticsearch:5.5.2
+
+
+
+curl -u elastic http://127.0.0.1:9500/\_cat/health
+
+
+
+docker-machine env dev
+
+eval "$\(docker-machine env dev\)"
+
+echo $DOCKER\_HOST
+
+
+
+docker-machine ssh
+
+sudo sysctl -w vm.max\_map\_count=262144
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
