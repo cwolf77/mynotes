@@ -74,5 +74,37 @@ When writting those lines, Jest seems to support only ES version 2.X.
 
 **Maven plugin** : [https://github.com/alexcojocaru/elasticsearch-maven-plugin/tree/es5](https://github.com/alexcojocaru/elasticsearch-maven-plugin/tree/es5)
 
-Reason why not using ESIntegTestCase : https://discuss.elastic.co/t/5-0-0-using-painless-in-esintegtestcase/64447/14
+Reason why not using ESIntegTestCase :
+
+[https://discuss.elastic.co/t/5-0-0-using-painless-in-esintegtestcase/64447/14](https://discuss.elastic.co/t/5-0-0-using-painless-in-esintegtestcase/64447/14)
+
+https://discuss.elastic.co/t/esintegtestcase-5-0-issues/64091/3
+
+
+
+Other links
+
+https://gquintana.github.io/2016/11/30/Testing-a-Java-and-Elasticsearch-50-application.html
+
+https://discuss.elastic.co/t/5-0-0-using-painless-in-esintegtestcase/64447/14
+
+https://github.com/elastic/elasticsearch/issues/21544
+
+https://stackoverflow.com/questions/41298467/how-to-start-elasticsearch-5-1-embedded-in-my-java-application/41299436\#41299436
+
+http://david.pilato.fr/blog/2016/10/18/elasticsearch-real-integration-tests-updated-for-ga/
+
+https://qbox.io/blog/rest-calls-new-java-elasticsearch-client-tutorial
+
+https://www.javacodegeeks.com/2017/03/elasticsearch-java-developers-elasticsearch-java.html
+
+https://stackoverflow.com/questions/38712251/java-jar-hell-runtime-exception
+
+
+
+
+
+
+
+
 
