@@ -8,6 +8,7 @@
 * [Lucene](lucene.md)
 * [Tika](tika.md)
 * [ElasticSearch](elasticsearch.md)
+* [Solr](solr.md)
 
 ## Imaging
 
