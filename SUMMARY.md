@@ -9,6 +9,7 @@
 * [Tika](tika.md)
 * [ElasticSearch](elasticsearch.md)
 * [Solr](solr.md)
+  * [To Consider](solr/to-consider.md)
 
 ## Imaging
 
