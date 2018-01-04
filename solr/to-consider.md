@@ -19,7 +19,7 @@ You can tag specific filters and exclude those filters when faceting. This is us
 
 Consider the following example query with faceting:
 
-q=mainquery&fq=status:public&fq=doctype:pdf&facet=true&facet.field=doctype
+`q=mainquery&fq=status:public&fq=doctype:pdf&facet=true&facet.field=doctype`
 
 Because everything is already constrained by the filter doctype:pdf, the facet.field=doctype facet command is currently redundant and will return 0 counts for everything except doctype:pdf.
 
@@ -36,7 +36,7 @@ To implement a multi-select facet for doctype, a GUI may want to still display t
 
 To return counts for doctype values that are currently not selected, tag filters that directly constrain doctype, and exclude those filters when faceting on doctype.
 
-q=mainquery&fq=status:public&fq={!tag=dt}doctype:pdf&facet=true&facet.field={!ex=dt}doctype
+`q=mainquery&fq=status:public&fq={!tag=dt}doctype:pdf&facet=true&facet.field={!ex=dt}doctype`
 
 Filter exclusion is supported for all types of facets. Both the tag and ex local parameters may specify multiple values by separating them with commas.
 
