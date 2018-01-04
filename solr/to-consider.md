@@ -26,7 +26,13 @@ Because everything is already constrained by the filter doctype:pdf, the facet.f
 To implement a multi-select facet for doctype, a GUI may want to still display the other doctype values and their associated counts, as if the doctype:pdf constraint had not yet been applied. For example:
 
 
-`afsadf` 
+`
+=== Document Type ===
+  [ ] Word (42)
+  [x] PDF  (96)
+  [ ] Excel(11)
+  [ ] HTML (63)
+` 
 
 
 To return counts for doctype values that are currently not selected, tag filters that directly constrain doctype, and exclude those filters when faceting on doctype.
