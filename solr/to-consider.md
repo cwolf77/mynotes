@@ -7,6 +7,7 @@ Each example launches Solr with a managed schema, which allows use of the [Schem
 If you would prefer to manually modify a`schema.xml`file directly, you can change this default as described in the section [Schema Factory Definition in SolrConfig](http://lucene.apache.org/solr/guide/7_2/schema-factory-definition-in-solrconfig.html#schema-factory-definition-in-solrconfig).
 
 ## Facet
+
 If you want Solr to perform both analysis (for searching) and faceting on the full literal strings, use the copyField directive in your Schema to create two versions of the field: one Text and one String. Make sure both are indexed="true". (For more information about the copyField directive, see Documents, Fields, and Schema Design.)
 
 ## Tika
