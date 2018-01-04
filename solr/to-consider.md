@@ -28,12 +28,7 @@ To implement a multi-select facet for doctype, a GUI may want to still display t
 
 `afsadf` 
 
-=== Document Type ===
-  [ ] Word (42)
-  [x] PDF  (96)
-  [ ] Excel(11)
-  [ ] HTML (63)
-`
+
 To return counts for doctype values that are currently not selected, tag filters that directly constrain doctype, and exclude those filters when faceting on doctype.
 
 q=mainquery&fq=status:public&fq={!tag=dt}doctype:pdf&facet=true&facet.field={!ex=dt}doctype
